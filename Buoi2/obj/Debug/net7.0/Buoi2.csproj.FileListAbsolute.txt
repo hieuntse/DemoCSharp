@@ -1,0 +1,15 @@
+E:\APKFile\Buoi2\Buoi2\bin\Debug\net7.0\Buoi2.exe
+E:\APKFile\Buoi2\Buoi2\bin\Debug\net7.0\Buoi2.deps.json
+E:\APKFile\Buoi2\Buoi2\bin\Debug\net7.0\Buoi2.runtimeconfig.json
+E:\APKFile\Buoi2\Buoi2\bin\Debug\net7.0\Buoi2.dll
+E:\APKFile\Buoi2\Buoi2\bin\Debug\net7.0\Buoi2.pdb
+E:\APKFile\Buoi2\Buoi2\obj\Debug\net7.0\Buoi2.csproj.AssemblyReference.cache
+E:\APKFile\Buoi2\Buoi2\obj\Debug\net7.0\Buoi2.GeneratedMSBuildEditorConfig.editorconfig
+E:\APKFile\Buoi2\Buoi2\obj\Debug\net7.0\Buoi2.AssemblyInfoInputs.cache
+E:\APKFile\Buoi2\Buoi2\obj\Debug\net7.0\Buoi2.AssemblyInfo.cs
+E:\APKFile\Buoi2\Buoi2\obj\Debug\net7.0\Buoi2.csproj.CoreCompileInputs.cache
+E:\APKFile\Buoi2\Buoi2\obj\Debug\net7.0\Buoi2.dll
+E:\APKFile\Buoi2\Buoi2\obj\Debug\net7.0\refint\Buoi2.dll
+E:\APKFile\Buoi2\Buoi2\obj\Debug\net7.0\Buoi2.pdb
+E:\APKFile\Buoi2\Buoi2\obj\Debug\net7.0\Buoi2.genruntimeconfig.cache
+E:\APKFile\Buoi2\Buoi2\obj\Debug\net7.0\ref\Buoi2.dll
