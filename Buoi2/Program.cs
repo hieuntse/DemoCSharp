@@ -3,8 +3,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        DemoHashSet();
-        DemoLinkedList();
+        // DemoHashSet();
+        //  DemoLinkedList();
         DemoList();
     }
 
@@ -75,8 +75,15 @@ class Program
         listTxt.Add("Genshin impact");
         listTxt.Add("CSO");
         listTxt.Add("GTA 5");
-        listTxt.Add("GTA 5");
+        //listTxt.Add("GTA 5");
+        //listTxt.Insert(1, "Java");
+        //listTxt.Remove("GTA 5");
+        listTxt.Sort();
 
         Console.WriteLine(listTxt.Contains("CSO")); // true or false
+        foreach (string item in listTxt)
+        {
+            Console.WriteLine(item); Console.WriteLine();
+        }
     }
 }
